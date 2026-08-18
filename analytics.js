@@ -1,5 +1,7 @@
 (()=>{
-  const ENDPOINT=window.ZDRAPSE_ANALYTICS_ENDPOINT||'';
+  const POSTHOG_TOKEN='phc_oPbaA3oKR33BYMGKp3bvVJR5xA9WJq2JbZcQy67fXWPA';
+  const POSTHOG_HOST='https://eu.i.posthog.com';
+  const POSTHOG_ASSETS='https://eu-assets.i.posthog.com/static/array.js';
   const STORAGE_KEY='zdrapse-analytics-id';
   const SESSION_KEY='zdrapse-session-id';
   const HISTORY_KEY='zdrapse-analytics-debug';
@@ -8,7 +10,34 @@
   const getId=(storage,key)=>{let id=storage.getItem(key);if(!id){id=makeId();storage.setItem(key,id)}return id};
   const userId=getId(localStorage,STORAGE_KEY);
   const sessionId=getId(sessionStorage,SESSION_KEY);
-  let scratchStarted=false,lastRevealedId=null;
+  let scratchStarted=false,lastRevealedId=null,posthogReady=false;
+  const pending=[];
+
+  function initPostHog(){
+    if(!POSTHOG_TOKEN||window.posthog?.__loaded)return;
+    const script=document.createElement('script');
+    script.async=true;
+    script.src=POSTHOG_ASSETS;
+    script.onload=()=>{
+      if(!window.posthog?.init)return;
+      window.posthog.init(POSTHOG_TOKEN,{
+        api_host:POSTHOG_HOST,
+        ui_host:'https://eu.posthog.com',
+        person_profiles:'identified_only',
+        autocapture:false,
+        capture_pageview:false,
+        capture_pageleave:false,
+        disable_session_recording:false,
+        loaded:ph=>{
+          posthogReady=true;
+          ph.register({app:'zdrapse',analytics_version:'1'});
+          ph.identify(userId);
+          pending.splice(0).forEach(({name,props})=>ph.capture(name,props));
+        }
+      });
+    };
+    document.head.appendChild(script);
+  }
 
   function hash(value){
     let h=2166136261;
@@ -33,20 +62,26 @@
     }catch(e){}
   }
 
+  function sendToPostHog(event){
+    const name=`zdrapse_${event.name}`;
+    const props={
+      ...event.props,
+      session_id:event.session_id,
+      path:event.path,
+      shared_id:event.shared_id,
+      referrer:event.referrer,
+      event_ts:event.ts
+    };
+    if(posthogReady&&window.posthog?.capture)window.posthog.capture(name,props);
+    else pending.push({name,props});
+  }
+
   function send(event){
     window.dataLayer=window.dataLayer||[];
     window.dataLayer.push({event:`zdrapse_${event.name}`,...event.props});
     window.dispatchEvent(new CustomEvent('zdrapse:analytics',{detail:event}));
     remember(event);
-    if(!ENDPOINT)return;
-    const body=JSON.stringify(event);
-    try{
-      if(navigator.sendBeacon){
-        navigator.sendBeacon(ENDPOINT,new Blob([body],{type:'application/json'}));
-      }else{
-        fetch(ENDPOINT,{method:'POST',headers:{'content-type':'application/json'},body,keepalive:true}).catch(()=>{});
-      }
-    }catch(e){}
+    sendToPostHog(event);
   }
 
   function track(name,props={}){
@@ -119,6 +154,7 @@
   }
 
   window.zdrapseAnalytics={track,userId,sessionId};
+  initPostHog();
 
   function boot(){
     const params=new URLSearchParams(location.search);
