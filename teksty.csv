@@ -111,3 +111,491 @@ id;kategoria;tekst;aktywny;waga;tagi
 110;18+;Jeśli plan zaczyna się od „nikomu nie mów”, zastanów się jeszcze raz. Potem ewentualnie baw się dobrze.;TAK;1;18+,decyzje
 111;18+;Dorosły człowiek może robić głupie rzeczy. Ważne, żeby robił je świadomie i za zgodą wszystkich zainteresowanych.;TAK;1;18+,impreza
 112;18+;Nie oceniaj swoich wiadomości z wczoraj przed pierwszą kawą. Potrzebujesz pełnej odporności psychicznej.;TAK;1;18+,impreza
+113;DOBRA RADA;Nie rób z chwilowego nastroju długoterminowej decyzji.;TAK;1;rada
+114;DOBRA RADA;Jeśli plan wymaga cudu, dopisz plan B.;TAK;1;rada
+115;DOBRA RADA;Nie odpowiadaj na wiadomość, kiedy układasz ją jak mowę końcową w sądzie.;TAK;1;rada
+116;DOBRA RADA;Jeśli coś działa wystarczająco dobrze, nie ulepszaj tego o 23:40.;TAK;1;rada
+117;DOBRA RADA;Nie tłumacz ciszy za kogoś. Cisza też potrafi być odpowiedzią.;TAK;1;rada
+118;DOBRA RADA;Nie naprawiaj relacji sam, jeśli druga strona przyszła tylko popatrzeć.;TAK;1;rada
+119;DOBRA RADA;Zanim się obrazisz, sprawdź czy druga osoba w ogóle wie, że gra w tę grę.;TAK;1;rada
+120;DOBRA RADA;Nie kupuj problemu tylko dlatego, że jest w promocji.;TAK;1;rada
+121;DOBRA RADA;Nie każdemu należy się pełne wyjaśnienie. Czasem wystarczy „nie”.;TAK;1;rada
+122;DOBRA RADA;Najpierw śpij, potem filozofuj. Noc ma fatalny dział PR.;TAK;1;rada
+123;DOBRA RADA;Zanim zdecydujesz się na wiadomość, daj sobie godzinę bez telefonu i sprawdź, czy nadal tego chcesz.;TAK;1;rada
+124;DOBRA RADA;Zanim zdecydujesz się na wiadomość, zadaj sobie pytanie, czego tak naprawdę próbujesz uniknąć.;TAK;1;rada
+125;DOBRA RADA;Zanim zdecydujesz się na wiadomość, wybierz najmniejszy sensowny krok zamiast kolejnej analizy.;TAK;1;rada
+126;DOBRA RADA;Zanim zdecydujesz się na wiadomość, sprawdź fakty, zanim dopiszesz sobie fabułę.;TAK;1;rada
+127;DOBRA RADA;Zanim zdecydujesz się na wiadomość, odróżnij strach przed zmianą od sygnału ostrzegawczego.;TAK;1;rada
+128;DOBRA RADA;Zanim zdecydujesz się na wiadomość, nie pytaj pięciu osób, jeśli i tak chcesz usłyszeć jedną odpowiedź.;TAK;1;rada
+129;DOBRA RADA;Zanim zdecydujesz się na wiadomość, zrób wersję prostszą. Zwykle to ona przeżywa kontakt z rzeczywistością.;TAK;1;rada
+130;DOBRA RADA;Zanim zdecydujesz się na wiadomość, pomyśl, czy jutro rano nadal uznasz to za genialne.;TAK;1;rada
+131;DOBRA RADA;Zanim zdecydujesz się na zakup, daj sobie godzinę bez telefonu i sprawdź, czy nadal tego chcesz.;TAK;1;rada
+132;DOBRA RADA;Zanim zdecydujesz się na zakup, zadaj sobie pytanie, czego tak naprawdę próbujesz uniknąć.;TAK;1;rada
+133;DOBRA RADA;Zanim zdecydujesz się na zakup, wybierz najmniejszy sensowny krok zamiast kolejnej analizy.;TAK;1;rada
+134;DOBRA RADA;Zanim zdecydujesz się na zakup, sprawdź fakty, zanim dopiszesz sobie fabułę.;TAK;1;rada
+135;DOBRA RADA;Zanim zdecydujesz się na zakup, odróżnij strach przed zmianą od sygnału ostrzegawczego.;TAK;1;rada
+136;DOBRA RADA;Zanim zdecydujesz się na zakup, nie pytaj pięciu osób, jeśli i tak chcesz usłyszeć jedną odpowiedź.;TAK;1;rada
+137;DOBRA RADA;Zanim zdecydujesz się na zakup, zrób wersję prostszą. Zwykle to ona przeżywa kontakt z rzeczywistością.;TAK;1;rada
+138;DOBRA RADA;Zanim zdecydujesz się na zakup, pomyśl, czy jutro rano nadal uznasz to za genialne.;TAK;1;rada
+139;DOBRA RADA;Zanim zdecydujesz się na rozmowę, daj sobie godzinę bez telefonu i sprawdź, czy nadal tego chcesz.;TAK;1;rada
+140;DOBRA RADA;Zanim zdecydujesz się na rozmowę, zadaj sobie pytanie, czego tak naprawdę próbujesz uniknąć.;TAK;1;rada
+141;DOBRA RADA;Zanim zdecydujesz się na rozmowę, wybierz najmniejszy sensowny krok zamiast kolejnej analizy.;TAK;1;rada
+142;DOBRA RADA;Zanim zdecydujesz się na rozmowę, sprawdź fakty, zanim dopiszesz sobie fabułę.;TAK;1;rada
+143;DOBRA RADA;Zanim zdecydujesz się na rozmowę, odróżnij strach przed zmianą od sygnału ostrzegawczego.;TAK;1;rada
+144;DOBRA RADA;Zanim zdecydujesz się na rozmowę, nie pytaj pięciu osób, jeśli i tak chcesz usłyszeć jedną odpowiedź.;TAK;1;rada
+145;DOBRA RADA;Zanim zdecydujesz się na rozmowę, zrób wersję prostszą. Zwykle to ona przeżywa kontakt z rzeczywistością.;TAK;1;rada
+146;DOBRA RADA;Zanim zdecydujesz się na rozmowę, pomyśl, czy jutro rano nadal uznasz to za genialne.;TAK;1;rada
+147;DOBRA RADA;Zanim zdecydujesz się na plan, daj sobie godzinę bez telefonu i sprawdź, czy nadal tego chcesz.;TAK;1;rada
+148;DOBRA RADA;Zanim zdecydujesz się na plan, zadaj sobie pytanie, czego tak naprawdę próbujesz uniknąć.;TAK;1;rada
+149;DOBRA RADA;Zanim zdecydujesz się na plan, wybierz najmniejszy sensowny krok zamiast kolejnej analizy.;TAK;1;rada
+150;DOBRA RADA;Zanim zdecydujesz się na plan, sprawdź fakty, zanim dopiszesz sobie fabułę.;TAK;1;rada
+151;DOBRA RADA;Zanim zdecydujesz się na plan, odróżnij strach przed zmianą od sygnału ostrzegawczego.;TAK;1;rada
+152;DOBRA RADA;Zanim zdecydujesz się na plan, nie pytaj pięciu osób, jeśli i tak chcesz usłyszeć jedną odpowiedź.;TAK;1;rada
+153;DOBRA RADA;Zanim zdecydujesz się na plan, zrób wersję prostszą. Zwykle to ona przeżywa kontakt z rzeczywistością.;TAK;1;rada
+154;DOBRA RADA;Zanim zdecydujesz się na plan, pomyśl, czy jutro rano nadal uznasz to za genialne.;TAK;1;rada
+155;DOBRA RADA;Zanim zdecydujesz się na konflikt, daj sobie godzinę bez telefonu i sprawdź, czy nadal tego chcesz.;TAK;1;rada
+156;DOBRA RADA;Zanim zdecydujesz się na konflikt, zadaj sobie pytanie, czego tak naprawdę próbujesz uniknąć.;TAK;1;rada
+157;DOBRA RADA;Zanim zdecydujesz się na konflikt, wybierz najmniejszy sensowny krok zamiast kolejnej analizy.;TAK;1;rada
+158;DOBRA RADA;Zanim zdecydujesz się na konflikt, sprawdź fakty, zanim dopiszesz sobie fabułę.;TAK;1;rada
+159;DOBRA RADA;Zanim zdecydujesz się na konflikt, odróżnij strach przed zmianą od sygnału ostrzegawczego.;TAK;1;rada
+160;DOBRA RADA;Zanim zdecydujesz się na konflikt, nie pytaj pięciu osób, jeśli i tak chcesz usłyszeć jedną odpowiedź.;TAK;1;rada
+161;DOBRA RADA;Zanim zdecydujesz się na konflikt, zrób wersję prostszą. Zwykle to ona przeżywa kontakt z rzeczywistością.;TAK;1;rada
+162;DOBRA RADA;Zanim zdecydujesz się na konflikt, pomyśl, czy jutro rano nadal uznasz to za genialne.;TAK;1;rada
+163;DOBRA RADA;Zanim zdecydujesz się na pomysł, daj sobie godzinę bez telefonu i sprawdź, czy nadal tego chcesz.;TAK;1;rada
+164;DOBRA RADA;Zanim zdecydujesz się na pomysł, zadaj sobie pytanie, czego tak naprawdę próbujesz uniknąć.;TAK;1;rada
+165;DOBRA RADA;Zanim zdecydujesz się na pomysł, wybierz najmniejszy sensowny krok zamiast kolejnej analizy.;TAK;1;rada
+166;DOBRA RADA;Zanim zdecydujesz się na pomysł, sprawdź fakty, zanim dopiszesz sobie fabułę.;TAK;1;rada
+167;DOBRA RADA;Zanim zdecydujesz się na pomysł, odróżnij strach przed zmianą od sygnału ostrzegawczego.;TAK;1;rada
+168;DOBRA RADA;Zanim zdecydujesz się na pomysł, nie pytaj pięciu osób, jeśli i tak chcesz usłyszeć jedną odpowiedź.;TAK;1;rada
+169;DOBRA RADA;Zanim zdecydujesz się na pomysł, zrób wersję prostszą. Zwykle to ona przeżywa kontakt z rzeczywistością.;TAK;1;rada
+170;DOBRA RADA;Zanim zdecydujesz się na pomysł, pomyśl, czy jutro rano nadal uznasz to za genialne.;TAK;1;rada
+171;DOBRA RADA;Zanim zdecydujesz się na zmianę pracy, daj sobie godzinę bez telefonu i sprawdź, czy nadal tego chcesz.;TAK;1;rada
+172;DOBRA RADA;Zanim zdecydujesz się na zmianę pracy, zadaj sobie pytanie, czego tak naprawdę próbujesz uniknąć.;TAK;1;rada
+173;DOBRA RADA;Zanim zdecydujesz się na zmianę pracy, wybierz najmniejszy sensowny krok zamiast kolejnej analizy.;TAK;1;rada
+174;DOBRA RADA;Zanim zdecydujesz się na zmianę pracy, sprawdź fakty, zanim dopiszesz sobie fabułę.;TAK;1;rada
+175;DOBRA RADA;Zanim zdecydujesz się na zmianę pracy, odróżnij strach przed zmianą od sygnału ostrzegawczego.;TAK;1;rada
+176;DOBRA RADA;Zanim zdecydujesz się na zmianę pracy, nie pytaj pięciu osób, jeśli i tak chcesz usłyszeć jedną odpowiedź.;TAK;1;rada
+177;DOBRA RADA;Zanim zdecydujesz się na zmianę pracy, zrób wersję prostszą. Zwykle to ona przeżywa kontakt z rzeczywistością.;TAK;1;rada
+178;DOBRA RADA;Zanim zdecydujesz się na zmianę pracy, pomyśl, czy jutro rano nadal uznasz to za genialne.;TAK;1;rada
+179;DOBRA RADA;Zanim zdecydujesz się na randkę, daj sobie godzinę bez telefonu i sprawdź, czy nadal tego chcesz.;TAK;1;rada
+180;DOBRA RADA;Zanim zdecydujesz się na randkę, zadaj sobie pytanie, czego tak naprawdę próbujesz uniknąć.;TAK;1;rada
+181;DOBRA RADA;Zanim zdecydujesz się na randkę, wybierz najmniejszy sensowny krok zamiast kolejnej analizy.;TAK;1;rada
+182;DOBRA RADA;Zanim zdecydujesz się na randkę, sprawdź fakty, zanim dopiszesz sobie fabułę.;TAK;1;rada
+183;DOBRA RADA;Zanim zdecydujesz się na randkę, odróżnij strach przed zmianą od sygnału ostrzegawczego.;TAK;1;rada
+184;DOBRA RADA;Zanim zdecydujesz się na randkę, nie pytaj pięciu osób, jeśli i tak chcesz usłyszeć jedną odpowiedź.;TAK;1;rada
+185;DOBRA RADA;Zanim zdecydujesz się na randkę, zrób wersję prostszą. Zwykle to ona przeżywa kontakt z rzeczywistością.;TAK;1;rada
+186;DOBRA RADA;Zanim zdecydujesz się na randkę, pomyśl, czy jutro rano nadal uznasz to za genialne.;TAK;1;rada
+187;DOBRA RADA;Zanim zdecydujesz się na pożyczkę, daj sobie godzinę bez telefonu i sprawdź, czy nadal tego chcesz.;TAK;1;rada
+188;DOBRA RADA;Zanim zdecydujesz się na pożyczkę, zadaj sobie pytanie, czego tak naprawdę próbujesz uniknąć.;TAK;1;rada
+189;DOBRA RADA;Zanim zdecydujesz się na pożyczkę, wybierz najmniejszy sensowny krok zamiast kolejnej analizy.;TAK;1;rada
+190;DOBRA RADA;Zanim zdecydujesz się na pożyczkę, sprawdź fakty, zanim dopiszesz sobie fabułę.;TAK;1;rada
+191;DOBRA RADA;Zanim zdecydujesz się na pożyczkę, odróżnij strach przed zmianą od sygnału ostrzegawczego.;TAK;1;rada
+192;DOBRA RADA;Zanim zdecydujesz się na pożyczkę, nie pytaj pięciu osób, jeśli i tak chcesz usłyszeć jedną odpowiedź.;TAK;1;rada
+193;DOBRA RADA;Zanim zdecydujesz się na pożyczkę, zrób wersję prostszą. Zwykle to ona przeżywa kontakt z rzeczywistością.;TAK;1;rada
+194;DOBRA RADA;Zanim zdecydujesz się na pożyczkę, pomyśl, czy jutro rano nadal uznasz to za genialne.;TAK;1;rada
+195;DOBRA RADA;Zanim zdecydujesz się na wyjazd, daj sobie godzinę bez telefonu i sprawdź, czy nadal tego chcesz.;TAK;1;rada
+196;DOBRA RADA;Zanim zdecydujesz się na wyjazd, zadaj sobie pytanie, czego tak naprawdę próbujesz uniknąć.;TAK;1;rada
+197;DOBRA RADA;Zanim zdecydujesz się na wyjazd, wybierz najmniejszy sensowny krok zamiast kolejnej analizy.;TAK;1;rada
+198;DOBRA RADA;Zanim zdecydujesz się na wyjazd, sprawdź fakty, zanim dopiszesz sobie fabułę.;TAK;1;rada
+199;DOBRA RADA;Zanim zdecydujesz się na wyjazd, odróżnij strach przed zmianą od sygnału ostrzegawczego.;TAK;1;rada
+200;DOBRA RADA;Zanim zdecydujesz się na wyjazd, nie pytaj pięciu osób, jeśli i tak chcesz usłyszeć jedną odpowiedź.;TAK;1;rada
+201;DOBRA RADA;Zanim zdecydujesz się na wyjazd, zrób wersję prostszą. Zwykle to ona przeżywa kontakt z rzeczywistością.;TAK;1;rada
+202;DOBRA RADA;Zanim zdecydujesz się na wyjazd, pomyśl, czy jutro rano nadal uznasz to za genialne.;TAK;1;rada
+203;MOTYWACJA;Nie czekaj na znak. To jest znak. Niski budżet, ale znak.;TAK;1;coach
+204;MOTYWACJA;Masz potencjał. Niestety sam się nie odpali.;TAK;1;coach
+205;MOTYWACJA;Wyjdź ze strefy komfortu. Chociaż na chwilę, żeby przewietrzyć.;TAK;1;coach
+206;MOTYWACJA;Nie potrzebujesz nowego planera. Potrzebujesz użyć starego.;TAK;1;coach
+207;MOTYWACJA;Twoje tempo nadal jest tempem. Instagram nie jest jednostką czasu.;TAK;1;coach
+208;MOTYWACJA;Wytrwałość to talent do wracania po tym, jak dramatycznie rzuciłeś wszystko.;TAK;1;coach
+209;MOTYWACJA;Nie porównuj swojego zaplecza do czyjejś reklamy.;TAK;1;coach
+210;MOTYWACJA;Zrób jedną rzecz, której unikasz. Potem możesz znowu być legendą kanapy.;TAK;1;coach
+211;MOTYWACJA;Nie bój się dużych celów. One też nie mają pojęcia, jak się za nie zabrać.;TAK;1;coach
+212;MOTYWACJA;Uwierz w siebie tak bezczelnie, jak ludzie bez kompetencji wierzą w swoje prezentacje.;TAK;1;coach
+213;MOTYWACJA;Wszechświat otwiera Ci drzwi, więc przestań stać przed nimi z instrukcją.;TAK;1;coach
+214;MOTYWACJA;Wszechświat mówi „działaj”, co jest podejrzanie konkretne.;TAK;1;coach
+215;MOTYWACJA;Wszechświat wierzy w Ciebie bardziej niż Twój kalendarz.;TAK;1;coach
+216;MOTYWACJA;Wszechświat domaga się ruchu, choć sam nic nie robi.;TAK;1;coach
+217;MOTYWACJA;Wszechświat aktualizuje Twój poziom odwagi.;TAK;1;coach
+218;MOTYWACJA;Wszechświat przypomina, że wymówki nie są planem projektu.;TAK;1;coach
+219;MOTYWACJA;Wszechświat prosi, żebyś w końcu kliknął „wyślij”.;TAK;1;coach
+220;MOTYWACJA;Wszechświat ma dla Ciebie szansę, tylko bez instrukcji obsługi.;TAK;1;coach
+221;MOTYWACJA;Wszechświat nie zna odpowiedzi, ale bardzo kibicuje.;TAK;1;coach
+222;MOTYWACJA;Wszechświat twierdzi, że dzisiaj coś dowieziesz.;TAK;1;coach
+223;MOTYWACJA;Los otwiera Ci drzwi, więc przestań stać przed nimi z instrukcją.;TAK;1;coach
+224;MOTYWACJA;Los mówi „działaj”, co jest podejrzanie konkretne.;TAK;1;coach
+225;MOTYWACJA;Los wierzy w Ciebie bardziej niż Twój kalendarz.;TAK;1;coach
+226;MOTYWACJA;Los domaga się ruchu, choć sam nic nie robi.;TAK;1;coach
+227;MOTYWACJA;Los aktualizuje Twój poziom odwagi.;TAK;1;coach
+228;MOTYWACJA;Los przypomina, że wymówki nie są planem projektu.;TAK;1;coach
+229;MOTYWACJA;Los prosi, żebyś w końcu kliknął „wyślij”.;TAK;1;coach
+230;MOTYWACJA;Los ma dla Ciebie szansę, tylko bez instrukcji obsługi.;TAK;1;coach
+231;MOTYWACJA;Los nie zna odpowiedzi, ale bardzo kibicuje.;TAK;1;coach
+232;MOTYWACJA;Los twierdzi, że dzisiaj coś dowieziesz.;TAK;1;coach
+233;MOTYWACJA;Twoje przyszłe ja otwiera Ci drzwi, więc przestań stać przed nimi z instrukcją.;TAK;1;coach
+234;MOTYWACJA;Twoje przyszłe ja mówi „działaj”, co jest podejrzanie konkretne.;TAK;1;coach
+235;MOTYWACJA;Twoje przyszłe ja wierzy w Ciebie bardziej niż Twój kalendarz.;TAK;1;coach
+236;MOTYWACJA;Twoje przyszłe ja domaga się ruchu, choć sam nic nie robi.;TAK;1;coach
+237;MOTYWACJA;Twoje przyszłe ja aktualizuje Twój poziom odwagi.;TAK;1;coach
+238;MOTYWACJA;Twoje przyszłe ja przypomina, że wymówki nie są planem projektu.;TAK;1;coach
+239;MOTYWACJA;Twoje przyszłe ja prosi, żebyś w końcu kliknął „wyślij”.;TAK;1;coach
+240;MOTYWACJA;Twoje przyszłe ja ma dla Ciebie szansę, tylko bez instrukcji obsługi.;TAK;1;coach
+241;MOTYWACJA;Twoje przyszłe ja nie zna odpowiedzi, ale bardzo kibicuje.;TAK;1;coach
+242;MOTYWACJA;Twoje przyszłe ja twierdzi, że dzisiaj coś dowieziesz.;TAK;1;coach
+243;MOTYWACJA;Twój wewnętrzny zwycięzca otwiera Ci drzwi, więc przestań stać przed nimi z instrukcją.;TAK;1;coach
+244;MOTYWACJA;Twój wewnętrzny zwycięzca mówi „działaj”, co jest podejrzanie konkretne.;TAK;1;coach
+245;MOTYWACJA;Twój wewnętrzny zwycięzca wierzy w Ciebie bardziej niż Twój kalendarz.;TAK;1;coach
+246;MOTYWACJA;Twój wewnętrzny zwycięzca domaga się ruchu, choć sam nic nie robi.;TAK;1;coach
+247;MOTYWACJA;Twój wewnętrzny zwycięzca aktualizuje Twój poziom odwagi.;TAK;1;coach
+248;MOTYWACJA;Twój wewnętrzny zwycięzca przypomina, że wymówki nie są planem projektu.;TAK;1;coach
+249;MOTYWACJA;Twój wewnętrzny zwycięzca prosi, żebyś w końcu kliknął „wyślij”.;TAK;1;coach
+250;MOTYWACJA;Twój wewnętrzny zwycięzca ma dla Ciebie szansę, tylko bez instrukcji obsługi.;TAK;1;coach
+251;MOTYWACJA;Twój wewnętrzny zwycięzca nie zna odpowiedzi, ale bardzo kibicuje.;TAK;1;coach
+252;MOTYWACJA;Twój wewnętrzny zwycięzca twierdzi, że dzisiaj coś dowieziesz.;TAK;1;coach
+253;MOTYWACJA;Twoja aura otwiera Ci drzwi, więc przestań stać przed nimi z instrukcją.;TAK;1;coach
+254;MOTYWACJA;Twoja aura mówi „działaj”, co jest podejrzanie konkretne.;TAK;1;coach
+255;MOTYWACJA;Twoja aura wierzy w Ciebie bardziej niż Twój kalendarz.;TAK;1;coach
+256;MOTYWACJA;Twoja aura domaga się ruchu, choć sam nic nie robi.;TAK;1;coach
+257;MOTYWACJA;Twoja aura aktualizuje Twój poziom odwagi.;TAK;1;coach
+258;MOTYWACJA;Twoja aura przypomina, że wymówki nie są planem projektu.;TAK;1;coach
+259;MOTYWACJA;Twoja aura prosi, żebyś w końcu kliknął „wyślij”.;TAK;1;coach
+260;MOTYWACJA;Twoja aura ma dla Ciebie szansę, tylko bez instrukcji obsługi.;TAK;1;coach
+261;MOTYWACJA;Twoja aura nie zna odpowiedzi, ale bardzo kibicuje.;TAK;1;coach
+262;MOTYWACJA;Twoja aura twierdzi, że dzisiaj coś dowieziesz.;TAK;1;coach
+263;MOTYWACJA;Twoja ambicja otwiera Ci drzwi, więc przestań stać przed nimi z instrukcją.;TAK;1;coach
+264;MOTYWACJA;Twoja ambicja mówi „działaj”, co jest podejrzanie konkretne.;TAK;1;coach
+265;MOTYWACJA;Twoja ambicja wierzy w Ciebie bardziej niż Twój kalendarz.;TAK;1;coach
+266;MOTYWACJA;Twoja ambicja domaga się ruchu, choć sam nic nie robi.;TAK;1;coach
+267;MOTYWACJA;Twoja ambicja aktualizuje Twój poziom odwagi.;TAK;1;coach
+268;MOTYWACJA;Twoja ambicja przypomina, że wymówki nie są planem projektu.;TAK;1;coach
+269;MOTYWACJA;Twoja ambicja prosi, żebyś w końcu kliknął „wyślij”.;TAK;1;coach
+270;MOTYWACJA;Twoja ambicja ma dla Ciebie szansę, tylko bez instrukcji obsługi.;TAK;1;coach
+271;MOTYWACJA;Twoja ambicja nie zna odpowiedzi, ale bardzo kibicuje.;TAK;1;coach
+272;MOTYWACJA;Twoja ambicja twierdzi, że dzisiaj coś dowieziesz.;TAK;1;coach
+273;MOTYWACJA;Twój plan na sukces otwiera Ci drzwi, więc przestań stać przed nimi z instrukcją.;TAK;1;coach
+274;MOTYWACJA;Twój plan na sukces mówi „działaj”, co jest podejrzanie konkretne.;TAK;1;coach
+275;MOTYWACJA;Twój plan na sukces wierzy w Ciebie bardziej niż Twój kalendarz.;TAK;1;coach
+276;MOTYWACJA;Twój plan na sukces domaga się ruchu, choć sam nic nie robi.;TAK;1;coach
+277;MOTYWACJA;Twój plan na sukces aktualizuje Twój poziom odwagi.;TAK;1;coach
+278;MOTYWACJA;Twój plan na sukces przypomina, że wymówki nie są planem projektu.;TAK;1;coach
+279;MOTYWACJA;Twój plan na sukces prosi, żebyś w końcu kliknął „wyślij”.;TAK;1;coach
+280;MOTYWACJA;Twój plan na sukces ma dla Ciebie szansę, tylko bez instrukcji obsługi.;TAK;1;coach
+281;MOTYWACJA;Twój plan na sukces nie zna odpowiedzi, ale bardzo kibicuje.;TAK;1;coach
+282;MOTYWACJA;Twój plan na sukces twierdzi, że dzisiaj coś dowieziesz.;TAK;1;coach
+283;MOTYWACJA;Twoja energia otwiera Ci drzwi, więc przestań stać przed nimi z instrukcją.;TAK;1;coach
+284;MOTYWACJA;Twoja energia mówi „działaj”, co jest podejrzanie konkretne.;TAK;1;coach
+285;MOTYWACJA;Twoja energia wierzy w Ciebie bardziej niż Twój kalendarz.;TAK;1;coach
+286;MOTYWACJA;Twoja energia domaga się ruchu, choć sam nic nie robi.;TAK;1;coach
+287;MOTYWACJA;Twoja energia aktualizuje Twój poziom odwagi.;TAK;1;coach
+288;MOTYWACJA;Twoja energia przypomina, że wymówki nie są planem projektu.;TAK;1;coach
+289;MOTYWACJA;Twoja energia prosi, żebyś w końcu kliknął „wyślij”.;TAK;1;coach
+290;MOTYWACJA;Twoja energia ma dla Ciebie szansę, tylko bez instrukcji obsługi.;TAK;1;coach
+291;MOTYWACJA;Twoja energia nie zna odpowiedzi, ale bardzo kibicuje.;TAK;1;coach
+292;MOTYWACJA;Twoja energia twierdzi, że dzisiaj coś dowieziesz.;TAK;1;coach
+293;OBRAŹ MNIE;Masz charyzmę paragonu fiskalnego.;TAK;1;roast
+294;OBRAŹ MNIE;Jesteś jak „pomiń reklamę” bez przycisku.;TAK;1;roast
+295;OBRAŹ MNIE;Twoje priorytety wyglądają jak losowanie Lotto.;TAK;1;roast
+296;OBRAŹ MNIE;Masz talent do bycia zajętym bez niebezpieczeństwa zrobienia czegokolwiek.;TAK;1;roast
+297;OBRAŹ MNIE;Gdyby chaos potrzebował rzecznika prasowego, dostałbyś etat.;TAK;1;roast
+298;OBRAŹ MNIE;Jesteś jak bateria na 3%. Dużo emocji, mało perspektyw.;TAK;1;roast
+299;OBRAŹ MNIE;Twoje pomysły są odważne. Szczególnie wobec braku przygotowania.;TAK;1;roast
+300;OBRAŹ MNIE;Masz wyjątkowy dar: potrafisz zgubić wątek, który sam zacząłeś.;TAK;1;roast
+301;OBRAŹ MNIE;Twoja lista zadań jest głównie archiwum niespełnionych obietnic.;TAK;1;roast
+302;OBRAŹ MNIE;Jesteś jak wersja robocza człowieka, tylko ktoś przypadkiem kliknął publikuj.;TAK;1;roast
+303;OBRAŹ MNIE;Twój plan jest jak Wi‑Fi w piwnicy: teoretycznie istnieje.;TAK;1;roast
+304;OBRAŹ MNIE;Twój plan ma godziny otwarcia, których nikt nie zna.;TAK;1;roast
+305;OBRAŹ MNIE;Twój plan działa głównie w wersji demonstracyjnej.;TAK;1;roast
+306;OBRAŹ MNIE;Twój plan pojawia się wtedy, kiedy już jest po sprawie.;TAK;1;roast
+307;OBRAŹ MNIE;Twój plan ma więcej przerw niż program telewizyjny.;TAK;1;roast
+308;OBRAŹ MNIE;Twój plan wygląda dobrze tylko w prezentacji.;TAK;1;roast
+309;OBRAŹ MNIE;Twój plan regularnie bierze urlop bez zgody przełożonego.;TAK;1;roast
+310;OBRAŹ MNIE;Twój plan jest bardziej koncepcją niż usługą.;TAK;1;roast
+311;OBRAŹ MNIE;Twój plan ma stabilność krzesła z jedną krótszą nogą.;TAK;1;roast
+312;OBRAŹ MNIE;Twój plan zdecydowanie wymaga restartu.;TAK;1;roast
+313;OBRAŹ MNIE;Twoja motywacja jest jak Wi‑Fi w piwnicy: teoretycznie istnieje.;TAK;1;roast
+314;OBRAŹ MNIE;Twoja motywacja ma godziny otwarcia, których nikt nie zna.;TAK;1;roast
+315;OBRAŹ MNIE;Twoja motywacja działa głównie w wersji demonstracyjnej.;TAK;1;roast
+316;OBRAŹ MNIE;Twoja motywacja pojawia się wtedy, kiedy już jest po sprawie.;TAK;1;roast
+317;OBRAŹ MNIE;Twoja motywacja ma więcej przerw niż program telewizyjny.;TAK;1;roast
+318;OBRAŹ MNIE;Twoja motywacja wygląda dobrze tylko w prezentacji.;TAK;1;roast
+319;OBRAŹ MNIE;Twoja motywacja regularnie bierze urlop bez zgody przełożonego.;TAK;1;roast
+320;OBRAŹ MNIE;Twoja motywacja jest bardziej koncepcją niż usługą.;TAK;1;roast
+321;OBRAŹ MNIE;Twoja motywacja ma stabilność krzesła z jedną krótszą nogą.;TAK;1;roast
+322;OBRAŹ MNIE;Twoja motywacja zdecydowanie wymaga restartu.;TAK;1;roast
+323;OBRAŹ MNIE;Twoja konsekwencja jest jak Wi‑Fi w piwnicy: teoretycznie istnieje.;TAK;1;roast
+324;OBRAŹ MNIE;Twoja konsekwencja ma godziny otwarcia, których nikt nie zna.;TAK;1;roast
+325;OBRAŹ MNIE;Twoja konsekwencja działa głównie w wersji demonstracyjnej.;TAK;1;roast
+326;OBRAŹ MNIE;Twoja konsekwencja pojawia się wtedy, kiedy już jest po sprawie.;TAK;1;roast
+327;OBRAŹ MNIE;Twoja konsekwencja ma więcej przerw niż program telewizyjny.;TAK;1;roast
+328;OBRAŹ MNIE;Twoja konsekwencja wygląda dobrze tylko w prezentacji.;TAK;1;roast
+329;OBRAŹ MNIE;Twoja konsekwencja regularnie bierze urlop bez zgody przełożonego.;TAK;1;roast
+330;OBRAŹ MNIE;Twoja konsekwencja jest bardziej koncepcją niż usługą.;TAK;1;roast
+331;OBRAŹ MNIE;Twoja konsekwencja ma stabilność krzesła z jedną krótszą nogą.;TAK;1;roast
+332;OBRAŹ MNIE;Twoja konsekwencja zdecydowanie wymaga restartu.;TAK;1;roast
+333;OBRAŹ MNIE;Twoje skupienie jest jak Wi‑Fi w piwnicy: teoretycznie istnieje.;TAK;1;roast
+334;OBRAŹ MNIE;Twoje skupienie ma godziny otwarcia, których nikt nie zna.;TAK;1;roast
+335;OBRAŹ MNIE;Twoje skupienie działa głównie w wersji demonstracyjnej.;TAK;1;roast
+336;OBRAŹ MNIE;Twoje skupienie pojawia się wtedy, kiedy już jest po sprawie.;TAK;1;roast
+337;OBRAŹ MNIE;Twoje skupienie ma więcej przerw niż program telewizyjny.;TAK;1;roast
+338;OBRAŹ MNIE;Twoje skupienie wygląda dobrze tylko w prezentacji.;TAK;1;roast
+339;OBRAŹ MNIE;Twoje skupienie regularnie bierze urlop bez zgody przełożonego.;TAK;1;roast
+340;OBRAŹ MNIE;Twoje skupienie jest bardziej koncepcją niż usługą.;TAK;1;roast
+341;OBRAŹ MNIE;Twoje skupienie ma stabilność krzesła z jedną krótszą nogą.;TAK;1;roast
+342;OBRAŹ MNIE;Twoje skupienie zdecydowanie wymaga restartu.;TAK;1;roast
+343;OBRAŹ MNIE;Twoja pewność siebie jest jak Wi‑Fi w piwnicy: teoretycznie istnieje.;TAK;1;roast
+344;OBRAŹ MNIE;Twoja pewność siebie ma godziny otwarcia, których nikt nie zna.;TAK;1;roast
+345;OBRAŹ MNIE;Twoja pewność siebie działa głównie w wersji demonstracyjnej.;TAK;1;roast
+346;OBRAŹ MNIE;Twoja pewność siebie pojawia się wtedy, kiedy już jest po sprawie.;TAK;1;roast
+347;OBRAŹ MNIE;Twoja pewność siebie ma więcej przerw niż program telewizyjny.;TAK;1;roast
+348;OBRAŹ MNIE;Twoja pewność siebie wygląda dobrze tylko w prezentacji.;TAK;1;roast
+349;OBRAŹ MNIE;Twoja pewność siebie regularnie bierze urlop bez zgody przełożonego.;TAK;1;roast
+350;OBRAŹ MNIE;Twoja pewność siebie jest bardziej koncepcją niż usługą.;TAK;1;roast
+351;OBRAŹ MNIE;Twoja pewność siebie ma stabilność krzesła z jedną krótszą nogą.;TAK;1;roast
+352;OBRAŹ MNIE;Twoja pewność siebie zdecydowanie wymaga restartu.;TAK;1;roast
+353;OBRAŹ MNIE;Twój rozsądek jest jak Wi‑Fi w piwnicy: teoretycznie istnieje.;TAK;1;roast
+354;OBRAŹ MNIE;Twój rozsądek ma godziny otwarcia, których nikt nie zna.;TAK;1;roast
+355;OBRAŹ MNIE;Twój rozsądek działa głównie w wersji demonstracyjnej.;TAK;1;roast
+356;OBRAŹ MNIE;Twój rozsądek pojawia się wtedy, kiedy już jest po sprawie.;TAK;1;roast
+357;OBRAŹ MNIE;Twój rozsądek ma więcej przerw niż program telewizyjny.;TAK;1;roast
+358;OBRAŹ MNIE;Twój rozsądek wygląda dobrze tylko w prezentacji.;TAK;1;roast
+359;OBRAŹ MNIE;Twój rozsądek regularnie bierze urlop bez zgody przełożonego.;TAK;1;roast
+360;OBRAŹ MNIE;Twój rozsądek jest bardziej koncepcją niż usługą.;TAK;1;roast
+361;OBRAŹ MNIE;Twój rozsądek ma stabilność krzesła z jedną krótszą nogą.;TAK;1;roast
+362;OBRAŹ MNIE;Twój rozsądek zdecydowanie wymaga restartu.;TAK;1;roast
+363;OBRAŹ MNIE;Twoja organizacja jest jak Wi‑Fi w piwnicy: teoretycznie istnieje.;TAK;1;roast
+364;OBRAŹ MNIE;Twoja organizacja ma godziny otwarcia, których nikt nie zna.;TAK;1;roast
+365;OBRAŹ MNIE;Twoja organizacja działa głównie w wersji demonstracyjnej.;TAK;1;roast
+366;OBRAŹ MNIE;Twoja organizacja pojawia się wtedy, kiedy już jest po sprawie.;TAK;1;roast
+367;OBRAŹ MNIE;Twoja organizacja ma więcej przerw niż program telewizyjny.;TAK;1;roast
+368;OBRAŹ MNIE;Twoja organizacja wygląda dobrze tylko w prezentacji.;TAK;1;roast
+369;OBRAŹ MNIE;Twoja organizacja regularnie bierze urlop bez zgody przełożonego.;TAK;1;roast
+370;OBRAŹ MNIE;Twoja organizacja jest bardziej koncepcją niż usługą.;TAK;1;roast
+371;OBRAŹ MNIE;Twoja organizacja ma stabilność krzesła z jedną krótszą nogą.;TAK;1;roast
+372;OBRAŹ MNIE;Twoja organizacja zdecydowanie wymaga restartu.;TAK;1;roast
+373;OBRAŹ MNIE;Twój zapał jest jak Wi‑Fi w piwnicy: teoretycznie istnieje.;TAK;1;roast
+374;OBRAŹ MNIE;Twój zapał ma godziny otwarcia, których nikt nie zna.;TAK;1;roast
+375;OBRAŹ MNIE;Twój zapał działa głównie w wersji demonstracyjnej.;TAK;1;roast
+376;OBRAŹ MNIE;Twój zapał pojawia się wtedy, kiedy już jest po sprawie.;TAK;1;roast
+377;OBRAŹ MNIE;Twój zapał ma więcej przerw niż program telewizyjny.;TAK;1;roast
+378;OBRAŹ MNIE;Twój zapał wygląda dobrze tylko w prezentacji.;TAK;1;roast
+379;OBRAŹ MNIE;Twój zapał regularnie bierze urlop bez zgody przełożonego.;TAK;1;roast
+380;OBRAŹ MNIE;Twój zapał jest bardziej koncepcją niż usługą.;TAK;1;roast
+381;OBRAŹ MNIE;Twój zapał ma stabilność krzesła z jedną krótszą nogą.;TAK;1;roast
+382;OBRAŹ MNIE;Twój zapał zdecydowanie wymaga restartu.;TAK;1;roast
+383;OBRAŹ MNIE;Twoja intuicja jest jak Wi‑Fi w piwnicy: teoretycznie istnieje.;TAK;1;roast
+384;OBRAŹ MNIE;Twoja intuicja ma godziny otwarcia, których nikt nie zna.;TAK;1;roast
+385;OBRAŹ MNIE;Twoja intuicja działa głównie w wersji demonstracyjnej.;TAK;1;roast
+386;OBRAŹ MNIE;Twoja intuicja pojawia się wtedy, kiedy już jest po sprawie.;TAK;1;roast
+387;OBRAŹ MNIE;Twoja intuicja ma więcej przerw niż program telewizyjny.;TAK;1;roast
+388;OBRAŹ MNIE;Twoja intuicja wygląda dobrze tylko w prezentacji.;TAK;1;roast
+389;OBRAŹ MNIE;Twoja intuicja regularnie bierze urlop bez zgody przełożonego.;TAK;1;roast
+390;OBRAŹ MNIE;Twoja intuicja jest bardziej koncepcją niż usługą.;TAK;1;roast
+391;OBRAŹ MNIE;Twoja intuicja ma stabilność krzesła z jedną krótszą nogą.;TAK;1;roast
+392;OBRAŹ MNIE;Twoja intuicja zdecydowanie wymaga restartu.;TAK;1;roast
+393;POGŁASZCZ MNIE;Nie musisz zasłużyć na odpoczynek. To nie program lojalnościowy.;TAK;1;wsparcie
+394;POGŁASZCZ MNIE;Masz prawo mieć gorszy dzień bez robienia z niego diagnozy całego życia.;TAK;1;wsparcie
+395;POGŁASZCZ MNIE;Nie wszystko, co Ci nie wyszło, mówi coś o Tobie. Czasem po prostu nie wyszło.;TAK;1;wsparcie
+396;POGŁASZCZ MNIE;Nie musisz być zabawny, produktywny ani przydatny przez cały czas.;TAK;1;wsparcie
+397;POGŁASZCZ MNIE;Nie jesteś spóźniony ze swoim życiem. Nie ma tablicy odjazdów.;TAK;1;wsparcie
+398;POGŁASZCZ MNIE;Masz więcej ogarnięte, niż sugeruje liczba otwartych kart w przeglądarce.;TAK;1;wsparcie
+399;POGŁASZCZ MNIE;Nie jesteś sumą swoich najbardziej żenujących pięciu minut.;TAK;1;wsparcie
+400;POGŁASZCZ MNIE;Masz więcej dobrych cech niż rzeczy, które analizujesz o drugiej w nocy.;TAK;1;wsparcie
+401;POGŁASZCZ MNIE;Jesteś wystarczająco interesujący bez robienia niczego spektakularnego.;TAK;1;wsparcie
+402;POGŁASZCZ MNIE;To dobry moment, żeby potraktować siebie jak człowieka, którego lubisz.;TAK;1;wsparcie
+403;POGŁASZCZ MNIE;Masz prawo odpocząć bez poczucia winy.;TAK;1;wsparcie
+404;POGŁASZCZ MNIE;Masz prawo nie mieć gotowej odpowiedzi.;TAK;1;wsparcie
+405;POGŁASZCZ MNIE;Masz prawo zmienić zdanie.;TAK;1;wsparcie
+406;POGŁASZCZ MNIE;Masz prawo powiedzieć komuś „nie”.;TAK;1;wsparcie
+407;POGŁASZCZ MNIE;Masz prawo cieszyć się z małego sukcesu.;TAK;1;wsparcie
+408;POGŁASZCZ MNIE;Masz prawo zrobić coś tylko dla siebie.;TAK;1;wsparcie
+409;POGŁASZCZ MNIE;Masz prawo nie odpowiadać od razu.;TAK;1;wsparcie
+410;POGŁASZCZ MNIE;Masz prawo poprosić o pomoc.;TAK;1;wsparcie
+411;POGŁASZCZ MNIE;Masz prawo odpuścić coś, co Ci nie służy.;TAK;1;wsparcie
+412;POGŁASZCZ MNIE;Masz prawo być z siebie zadowolonym bez porównania do innych.;TAK;1;wsparcie
+413;POGŁASZCZ MNIE;Naprawdę możesz odpocząć bez poczucia winy.;TAK;1;wsparcie
+414;POGŁASZCZ MNIE;Naprawdę możesz nie mieć gotowej odpowiedzi.;TAK;1;wsparcie
+415;POGŁASZCZ MNIE;Naprawdę możesz zmienić zdanie.;TAK;1;wsparcie
+416;POGŁASZCZ MNIE;Naprawdę możesz powiedzieć komuś „nie”.;TAK;1;wsparcie
+417;POGŁASZCZ MNIE;Naprawdę możesz cieszyć się z małego sukcesu.;TAK;1;wsparcie
+418;POGŁASZCZ MNIE;Naprawdę możesz zrobić coś tylko dla siebie.;TAK;1;wsparcie
+419;POGŁASZCZ MNIE;Naprawdę możesz nie odpowiadać od razu.;TAK;1;wsparcie
+420;POGŁASZCZ MNIE;Naprawdę możesz poprosić o pomoc.;TAK;1;wsparcie
+421;POGŁASZCZ MNIE;Naprawdę możesz odpuścić coś, co Ci nie służy.;TAK;1;wsparcie
+422;POGŁASZCZ MNIE;Naprawdę możesz być z siebie zadowolonym bez porównania do innych.;TAK;1;wsparcie
+423;POGŁASZCZ MNIE;Dzisiaj wolno Ci odpocząć bez poczucia winy.;TAK;1;wsparcie
+424;POGŁASZCZ MNIE;Dzisiaj wolno Ci nie mieć gotowej odpowiedzi.;TAK;1;wsparcie
+425;POGŁASZCZ MNIE;Dzisiaj wolno Ci zmienić zdanie.;TAK;1;wsparcie
+426;POGŁASZCZ MNIE;Dzisiaj wolno Ci powiedzieć komuś „nie”.;TAK;1;wsparcie
+427;POGŁASZCZ MNIE;Dzisiaj wolno Ci cieszyć się z małego sukcesu.;TAK;1;wsparcie
+428;POGŁASZCZ MNIE;Dzisiaj wolno Ci zrobić coś tylko dla siebie.;TAK;1;wsparcie
+429;POGŁASZCZ MNIE;Dzisiaj wolno Ci nie odpowiadać od razu.;TAK;1;wsparcie
+430;POGŁASZCZ MNIE;Dzisiaj wolno Ci poprosić o pomoc.;TAK;1;wsparcie
+431;POGŁASZCZ MNIE;Dzisiaj wolno Ci odpuścić coś, co Ci nie służy.;TAK;1;wsparcie
+432;POGŁASZCZ MNIE;Dzisiaj wolno Ci być z siebie zadowolonym bez porównania do innych.;TAK;1;wsparcie
+433;POGŁASZCZ MNIE;Nic się nie stanie, jeśli postanowisz odpocząć bez poczucia winy.;TAK;1;wsparcie
+434;POGŁASZCZ MNIE;Nic się nie stanie, jeśli postanowisz nie mieć gotowej odpowiedzi.;TAK;1;wsparcie
+435;POGŁASZCZ MNIE;Nic się nie stanie, jeśli postanowisz zmienić zdanie.;TAK;1;wsparcie
+436;POGŁASZCZ MNIE;Nic się nie stanie, jeśli postanowisz powiedzieć komuś „nie”.;TAK;1;wsparcie
+437;POGŁASZCZ MNIE;Nic się nie stanie, jeśli postanowisz cieszyć się z małego sukcesu.;TAK;1;wsparcie
+438;POGŁASZCZ MNIE;Nic się nie stanie, jeśli postanowisz zrobić coś tylko dla siebie.;TAK;1;wsparcie
+439;POGŁASZCZ MNIE;Nic się nie stanie, jeśli postanowisz nie odpowiadać od razu.;TAK;1;wsparcie
+440;POGŁASZCZ MNIE;Nic się nie stanie, jeśli postanowisz poprosić o pomoc.;TAK;1;wsparcie
+441;POGŁASZCZ MNIE;Nic się nie stanie, jeśli postanowisz odpuścić coś, co Ci nie służy.;TAK;1;wsparcie
+442;POGŁASZCZ MNIE;Nic się nie stanie, jeśli postanowisz być z siebie zadowolonym bez porównania do innych.;TAK;1;wsparcie
+443;POGŁASZCZ MNIE;Świat się nie zawali, gdy zdecydujesz się odpocząć bez poczucia winy.;TAK;1;wsparcie
+444;POGŁASZCZ MNIE;Świat się nie zawali, gdy zdecydujesz się nie mieć gotowej odpowiedzi.;TAK;1;wsparcie
+445;POGŁASZCZ MNIE;Świat się nie zawali, gdy zdecydujesz się zmienić zdanie.;TAK;1;wsparcie
+446;POGŁASZCZ MNIE;Świat się nie zawali, gdy zdecydujesz się powiedzieć komuś „nie”.;TAK;1;wsparcie
+447;POGŁASZCZ MNIE;Świat się nie zawali, gdy zdecydujesz się cieszyć się z małego sukcesu.;TAK;1;wsparcie
+448;POGŁASZCZ MNIE;Świat się nie zawali, gdy zdecydujesz się zrobić coś tylko dla siebie.;TAK;1;wsparcie
+449;POGŁASZCZ MNIE;Świat się nie zawali, gdy zdecydujesz się nie odpowiadać od razu.;TAK;1;wsparcie
+450;POGŁASZCZ MNIE;Świat się nie zawali, gdy zdecydujesz się poprosić o pomoc.;TAK;1;wsparcie
+451;POGŁASZCZ MNIE;Świat się nie zawali, gdy zdecydujesz się odpuścić coś, co Ci nie służy.;TAK;1;wsparcie
+452;POGŁASZCZ MNIE;Świat się nie zawali, gdy zdecydujesz się być z siebie zadowolonym bez porównania do innych.;TAK;1;wsparcie
+453;POGŁASZCZ MNIE;Możesz bez wyrzutów sumienia odpocząć bez poczucia winy.;TAK;1;wsparcie
+454;POGŁASZCZ MNIE;Możesz bez wyrzutów sumienia nie mieć gotowej odpowiedzi.;TAK;1;wsparcie
+455;POGŁASZCZ MNIE;Możesz bez wyrzutów sumienia zmienić zdanie.;TAK;1;wsparcie
+456;POGŁASZCZ MNIE;Możesz bez wyrzutów sumienia powiedzieć komuś „nie”.;TAK;1;wsparcie
+457;POGŁASZCZ MNIE;Możesz bez wyrzutów sumienia cieszyć się z małego sukcesu.;TAK;1;wsparcie
+458;POGŁASZCZ MNIE;Możesz bez wyrzutów sumienia zrobić coś tylko dla siebie.;TAK;1;wsparcie
+459;POGŁASZCZ MNIE;Możesz bez wyrzutów sumienia nie odpowiadać od razu.;TAK;1;wsparcie
+460;POGŁASZCZ MNIE;Możesz bez wyrzutów sumienia poprosić o pomoc.;TAK;1;wsparcie
+461;POGŁASZCZ MNIE;Możesz bez wyrzutów sumienia odpuścić coś, co Ci nie służy.;TAK;1;wsparcie
+462;POGŁASZCZ MNIE;Możesz bez wyrzutów sumienia być z siebie zadowolonym bez porównania do innych.;TAK;1;wsparcie
+463;POGŁASZCZ MNIE;Serio możesz odpocząć bez poczucia winy.;TAK;1;wsparcie
+464;POGŁASZCZ MNIE;Serio możesz nie mieć gotowej odpowiedzi.;TAK;1;wsparcie
+465;POGŁASZCZ MNIE;Serio możesz zmienić zdanie.;TAK;1;wsparcie
+466;POGŁASZCZ MNIE;Serio możesz powiedzieć komuś „nie”.;TAK;1;wsparcie
+467;POGŁASZCZ MNIE;Serio możesz cieszyć się z małego sukcesu.;TAK;1;wsparcie
+468;POGŁASZCZ MNIE;Serio możesz zrobić coś tylko dla siebie.;TAK;1;wsparcie
+469;POGŁASZCZ MNIE;Serio możesz nie odpowiadać od razu.;TAK;1;wsparcie
+470;POGŁASZCZ MNIE;Serio możesz poprosić o pomoc.;TAK;1;wsparcie
+471;POGŁASZCZ MNIE;Serio możesz odpuścić coś, co Ci nie służy.;TAK;1;wsparcie
+472;POGŁASZCZ MNIE;Serio możesz być z siebie zadowolonym bez porównania do innych.;TAK;1;wsparcie
+473;TAK CZY NIE;TAK. Przestań negocjować z odpowiedzią.;TAK;1;decyzje
+474;TAK CZY NIE;NIE. Tym razem naprawdę nie.;TAK;1;decyzje
+475;TAK CZY NIE;TAK. Ale bez robienia z tego trzyletniego projektu.;TAK;1;decyzje
+476;TAK CZY NIE;NIE. Twoja intuicja właśnie odetchnęła.;TAK;1;decyzje
+477;TAK CZY NIE;TAK. Zrób to zanim zaczniesz wymyślać powody, żeby nie.;TAK;1;decyzje
+478;TAK CZY NIE;NIE. Jeśli szukałeś znaku, właśnie go znalazłeś.;TAK;1;decyzje
+479;TAK CZY NIE;TAK. Ryzyko jest wpisane w regulamin.;TAK;1;decyzje
+480;TAK CZY NIE;NIE. Nie każde „a może” zasługuje na sequel.;TAK;1;decyzje
+481;TAK CZY NIE;TAK. Tylko nie komplikuj.;TAK;1;decyzje
+482;TAK CZY NIE;NIE. Dzisiaj los jest działem compliance.;TAK;1;decyzje
+483;TAK CZY NIE;TAK. Idź za tym.;TAK;1;decyzje
+484;TAK CZY NIE;TAK. Spróbuj raz i oceń potem.;TAK;1;decyzje
+485;TAK CZY NIE;TAK. Masz zielone światło.;TAK;1;decyzje
+486;TAK CZY NIE;TAK. Nie rób prezentacji, zrób ruch.;TAK;1;decyzje
+487;TAK CZY NIE;TAK. Ale zacznij mało.;TAK;1;decyzje
+488;TAK CZY NIE;TAK. I nie pytaj już czwartej osoby.;TAK;1;decyzje
+489;TAK CZY NIE;TAK. Tylko zachowaj trochę rozsądku.;TAK;1;decyzje
+490;TAK CZY NIE;TAK. Masz zgodę od przypadku.;TAK;1;decyzje
+491;TAK CZY NIE;TAK. Najwyżej będziesz mieć historię.;TAK;1;decyzje
+492;TAK CZY NIE;TAK. Zrób to po swojemu.;TAK;1;decyzje
+493;TAK CZY NIE;TAK. Jeśli nadal chcesz jutro.;TAK;1;decyzje
+494;TAK CZY NIE;TAK. Jeśli robisz to dla siebie.;TAK;1;decyzje
+495;TAK CZY NIE;TAK. Jeśli możesz przyjąć konsekwencje.;TAK;1;decyzje
+496;TAK CZY NIE;TAK. Ostrożnie, ale tak.;TAK;1;decyzje
+497;TAK CZY NIE;TAK. Działaj zanim się rozmyślisz.;TAK;1;decyzje
+498;TAK CZY NIE;TAK. To wygląda lepiej niż kolejne analizowanie.;TAK;1;decyzje
+499;TAK CZY NIE;TAK. Masz pozwolenie od internetu.;TAK;1;decyzje
+500;TAK CZY NIE;TAK. Zrób pierwszy krok.;TAK;1;decyzje
+501;TAK CZY NIE;TAK. Nie czekaj na lepszą pogodę.;TAK;1;decyzje
+502;TAK CZY NIE;TAK. Tak, ale bez pożyczania pieniędzy.;TAK;1;decyzje
+503;TAK CZY NIE;TAK. Tak, ale nie rób z tego religii.;TAK;1;decyzje
+504;TAK CZY NIE;TAK. Tak, ale miej plan wyjścia.;TAK;1;decyzje
+505;TAK CZY NIE;TAK. Tak, jeśli to naprawdę Twoja decyzja.;TAK;1;decyzje
+506;TAK CZY NIE;TAK. Tak, ale bez dramatycznej muzyki.;TAK;1;decyzje
+507;TAK CZY NIE;TAK. Tak, jeśli nie musisz kłamać.;TAK;1;decyzje
+508;TAK CZY NIE;TAK. Tak, ale wyśpij się wcześniej.;TAK;1;decyzje
+509;TAK CZY NIE;TAK. Tak, pod warunkiem że to nie zemsta.;TAK;1;decyzje
+510;TAK CZY NIE;TAK. Tak, ale nie rób tego dla lajków.;TAK;1;decyzje
+511;TAK CZY NIE;TAK. Tak, tylko nie przeciągaj.;TAK;1;decyzje
+512;TAK CZY NIE;TAK. Tak, ale z głową.;TAK;1;decyzje
+513;TAK CZY NIE;NIE. Odpuść na dziś.;TAK;1;decyzje
+514;TAK CZY NIE;NIE. Nie teraz.;TAK;1;decyzje
+515;TAK CZY NIE;NIE. Oszczędź sobie odcinek specjalny.;TAK;1;decyzje
+516;TAK CZY NIE;NIE. To nie ten moment.;TAK;1;decyzje
+517;TAK CZY NIE;NIE. Nie dokładaj sobie fabuły.;TAK;1;decyzje
+518;TAK CZY NIE;NIE. Twoje przyszłe ja stawia kawę.;TAK;1;decyzje
+519;TAK CZY NIE;NIE. Zostaw to w spokoju.;TAK;1;decyzje
+520;TAK CZY NIE;NIE. Daj temu 24 godziny.;TAK;1;decyzje
+521;TAK CZY NIE;NIE. Nie musisz sprawdzać wszystkiego osobiście.;TAK;1;decyzje
+522;TAK CZY NIE;NIE. Tym razem wybierz nudę.;TAK;1;decyzje
+523;TAK CZY NIE;NIE. Za dużo czerwonych flag.;TAK;1;decyzje
+524;TAK CZY NIE;NIE. Brzmi jak kłopot.;TAK;1;decyzje
+525;TAK CZY NIE;NIE. To pachnie komplikacją.;TAK;1;decyzje
+526;TAK CZY NIE;NIE. Nie warto tej energii.;TAK;1;decyzje
+527;TAK CZY NIE;NIE. Nie potrzebujesz tego.;TAK;1;decyzje
+528;TAK CZY NIE;NIE. Odłóż telefon.;TAK;1;decyzje
+529;TAK CZY NIE;NIE. Wyśpij się z tym.;TAK;1;decyzje
+530;TAK CZY NIE;NIE. Zjedz coś i wróć.;TAK;1;decyzje
+531;TAK CZY NIE;NIE. To nie jest okazja, tylko przebrany problem.;TAK;1;decyzje
+532;TAK CZY NIE;NIE. Dzisiaj nie.;TAK;1;decyzje
+533;TAK CZY NIE;NIE. Nie, jeśli musisz ukrywać szczegóły.;TAK;1;decyzje
+534;TAK CZY NIE;NIE. Nie, jeśli liczysz na cud.;TAK;1;decyzje
+535;TAK CZY NIE;NIE. Nie, jeśli to czysta presja.;TAK;1;decyzje
+536;TAK CZY NIE;NIE. Nie, jeśli potem będziesz usuwać wiadomości.;TAK;1;decyzje
+537;TAK CZY NIE;NIE. Nie, jeśli nie umiesz powiedzieć po co.;TAK;1;decyzje
+538;TAK CZY NIE;NIE. Nie, jeśli to ma komuś coś udowodnić.;TAK;1;decyzje
+539;TAK CZY NIE;NIE. Nie, jeśli już czujesz kaca moralnego.;TAK;1;decyzje
+540;TAK CZY NIE;NIE. Nie, jeśli trzeba to mocno tłumaczyć.;TAK;1;decyzje
+541;TAK CZY NIE;NIE. Nie, jeśli plan zaczyna się od „co może pójść nie tak”.;TAK;1;decyzje
+542;TAK CZY NIE;NIE. Nie, wybierz spokój.;TAK;1;decyzje
+543;18+;Jeśli oboje tego chcecie, rozmawiajcie wprost. Seksowniej niż zgadywanie.;TAK;1;18+
+544;18+;Flirt ma być zabawą dla dwóch osób, nie egzaminem dla jednej.;TAK;1;18+
+545;18+;Jeśli trzeba przekonywać, to odpowiedź już brzmi „nie”.;TAK;1;18+
+546;18+;Zgoda może być wycofana w każdej chwili. Nawet w połowie świetnego planu.;TAK;1;18+
+547;18+;Nie myl chemii z kompatybilnością. Jedno robi iskry, drugie płaci rachunki.;TAK;1;18+
+548;18+;Nie każdy crush zasługuje na wiadomość o 2:17.;TAK;1;18+
+549;18+;Nie rób niczego tylko dlatego, że boisz się wyjść na nudnego.;TAK;1;18+
+550;18+;Jeśli nie możesz o tym porozmawiać na trzeźwo, może nie warto robić tego po pijaku.;TAK;1;18+
+551;18+;Granice są sexy. Chaos bez zgody już mniej.;TAK;1;18+
+552;18+;Nie każda noc musi kończyć się fabułą.;TAK;1;18+
+553;18+;Jeśli plan obejmuje wiadomość do ex, upewnij się, że wszyscy naprawdę tego chcą.;TAK;1;18+
+554;18+;Jeśli plan obejmuje wiadomość do ex, zostaw sobie prawo do zmiany zdania.;TAK;1;18+
+555;18+;Jeśli plan obejmuje wiadomość do ex, sprawdź, czy rano nadal uznasz to za dobry pomysł.;TAK;1;18+
+556;18+;Jeśli plan obejmuje wiadomość do ex, nie myl presji z chemią.;TAK;1;18+
+557;18+;Jeśli plan obejmuje wiadomość do ex, pamiętaj, że zgoda jest ważniejsza niż momentum.;TAK;1;18+
+558;18+;Jeśli plan obejmuje wiadomość do ex, zadbaj o bezpieczeństwo zanim zadbasz o fabułę.;TAK;1;18+
+559;18+;Jeśli plan obejmuje seks bez zobowiązań, upewnij się, że wszyscy naprawdę tego chcą.;TAK;1;18+
+560;18+;Jeśli plan obejmuje seks bez zobowiązań, zostaw sobie prawo do zmiany zdania.;TAK;1;18+
+561;18+;Jeśli plan obejmuje seks bez zobowiązań, sprawdź, czy rano nadal uznasz to za dobry pomysł.;TAK;1;18+
+562;18+;Jeśli plan obejmuje seks bez zobowiązań, nie myl presji z chemią.;TAK;1;18+
+563;18+;Jeśli plan obejmuje seks bez zobowiązań, pamiętaj, że zgoda jest ważniejsza niż momentum.;TAK;1;18+
+564;18+;Jeśli plan obejmuje seks bez zobowiązań, zadbaj o bezpieczeństwo zanim zadbasz o fabułę.;TAK;1;18+
+565;18+;Jeśli plan obejmuje nocny spontan, upewnij się, że wszyscy naprawdę tego chcą.;TAK;1;18+
+566;18+;Jeśli plan obejmuje nocny spontan, zostaw sobie prawo do zmiany zdania.;TAK;1;18+
+567;18+;Jeśli plan obejmuje nocny spontan, sprawdź, czy rano nadal uznasz to za dobry pomysł.;TAK;1;18+
+568;18+;Jeśli plan obejmuje nocny spontan, nie myl presji z chemią.;TAK;1;18+
+569;18+;Jeśli plan obejmuje nocny spontan, pamiętaj, że zgoda jest ważniejsza niż momentum.;TAK;1;18+
+570;18+;Jeśli plan obejmuje nocny spontan, zadbaj o bezpieczeństwo zanim zadbasz o fabułę.;TAK;1;18+
+571;18+;Jeśli plan obejmuje odważny flirt, upewnij się, że wszyscy naprawdę tego chcą.;TAK;1;18+
+572;18+;Jeśli plan obejmuje odważny flirt, zostaw sobie prawo do zmiany zdania.;TAK;1;18+
+573;18+;Jeśli plan obejmuje odważny flirt, sprawdź, czy rano nadal uznasz to za dobry pomysł.;TAK;1;18+
+574;18+;Jeśli plan obejmuje odważny flirt, nie myl presji z chemią.;TAK;1;18+
+575;18+;Jeśli plan obejmuje odważny flirt, pamiętaj, że zgoda jest ważniejsza niż momentum.;TAK;1;18+
+576;18+;Jeśli plan obejmuje odważny flirt, zadbaj o bezpieczeństwo zanim zadbasz o fabułę.;TAK;1;18+
+577;18+;Jeśli plan obejmuje bardzo głupi zakład, upewnij się, że wszyscy naprawdę tego chcą.;TAK;1;18+
+578;18+;Jeśli plan obejmuje bardzo głupi zakład, zostaw sobie prawo do zmiany zdania.;TAK;1;18+
+579;18+;Jeśli plan obejmuje bardzo głupi zakład, sprawdź, czy rano nadal uznasz to za dobry pomysł.;TAK;1;18+
+580;18+;Jeśli plan obejmuje bardzo głupi zakład, nie myl presji z chemią.;TAK;1;18+
+581;18+;Jeśli plan obejmuje bardzo głupi zakład, pamiętaj, że zgoda jest ważniejsza niż momentum.;TAK;1;18+
+582;18+;Jeśli plan obejmuje bardzo głupi zakład, zadbaj o bezpieczeństwo zanim zadbasz o fabułę.;TAK;1;18+
+583;18+;Jeśli plan obejmuje randkę po imprezie, upewnij się, że wszyscy naprawdę tego chcą.;TAK;1;18+
+584;18+;Jeśli plan obejmuje randkę po imprezie, zostaw sobie prawo do zmiany zdania.;TAK;1;18+
+585;18+;Jeśli plan obejmuje randkę po imprezie, sprawdź, czy rano nadal uznasz to za dobry pomysł.;TAK;1;18+
+586;18+;Jeśli plan obejmuje randkę po imprezie, nie myl presji z chemią.;TAK;1;18+
+587;18+;Jeśli plan obejmuje randkę po imprezie, pamiętaj, że zgoda jest ważniejsza niż momentum.;TAK;1;18+
+588;18+;Jeśli plan obejmuje randkę po imprezie, zadbaj o bezpieczeństwo zanim zadbasz o fabułę.;TAK;1;18+
+589;18+;Jeśli plan obejmuje wysłanie zdjęcia, upewnij się, że wszyscy naprawdę tego chcą.;TAK;1;18+
+590;18+;Jeśli plan obejmuje wysłanie zdjęcia, zostaw sobie prawo do zmiany zdania.;TAK;1;18+
+591;18+;Jeśli plan obejmuje wysłanie zdjęcia, sprawdź, czy rano nadal uznasz to za dobry pomysł.;TAK;1;18+
+592;18+;Jeśli plan obejmuje wysłanie zdjęcia, nie myl presji z chemią.;TAK;1;18+
+593;18+;Jeśli plan obejmuje wysłanie zdjęcia, pamiętaj, że zgoda jest ważniejsza niż momentum.;TAK;1;18+
+594;18+;Jeśli plan obejmuje wysłanie zdjęcia, zadbaj o bezpieczeństwo zanim zadbasz o fabułę.;TAK;1;18+
+595;18+;Jeśli plan obejmuje powrót do dawnej relacji, upewnij się, że wszyscy naprawdę tego chcą.;TAK;1;18+
+596;18+;Jeśli plan obejmuje powrót do dawnej relacji, zostaw sobie prawo do zmiany zdania.;TAK;1;18+
+597;18+;Jeśli plan obejmuje powrót do dawnej relacji, sprawdź, czy rano nadal uznasz to za dobry pomysł.;TAK;1;18+
+598;18+;Jeśli plan obejmuje powrót do dawnej relacji, nie myl presji z chemią.;TAK;1;18+
+599;18+;Jeśli plan obejmuje powrót do dawnej relacji, pamiętaj, że zgoda jest ważniejsza niż momentum.;TAK;1;18+
+600;18+;Jeśli plan obejmuje powrót do dawnej relacji, zadbaj o bezpieczeństwo zanim zadbasz o fabułę.;TAK;1;18+
