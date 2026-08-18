@@ -23,3 +23,91 @@ id;kategoria;tekst;aktywny;waga;tagi
 22;18+;Napisz. Ale najpierw przeczytaj wiadomość jeszcze raz na trzeźwo.;TAK;1;18+,relacje
 23;18+;Jeśli rano będziesz musiał usuwać wiadomości, odpowiedź brzmi: może jednak nie.;TAK;1;18+,impreza
 24;18+;Dorosłość polega między innymi na tym, że możesz. Rozsądek na tym, że nie musisz.;TAK;1;18+,decyzje
+25;OBRAŹ MNIE;Jesteś dowodem, że pewność siebie nie wymaga żadnych kwalifikacji.;TAK;1;roast,ego
+26;OBRAŹ MNIE;Nie jesteś głupi. Po prostu wyjątkowo konsekwentnie podejmujesz złe decyzje.;TAK;1;roast,decyzje
+27;OBRAŹ MNIE;Twoja intuicja jest niesamowita. Zawsze wie, którą opcję wybrać źle.;TAK;1;roast,decyzje
+28;OBRAŹ MNIE;Gdyby przeciętność miała program lojalnościowy, miałbyś kartę platynową.;TAK;1;roast,absurd
+29;OBRAŹ MNIE;Jesteś jak aktualizacja Windowsa. Pojawiasz się nie w porę i nikt nie wie, co właściwie poprawiłeś.;TAK;1;roast,porównanie
+30;OBRAŹ MNIE;Masz osobowość człowieka, który mówi „będzie dobrze” i nic więcej nie robi.;TAK;1;roast
+31;OBRAŹ MNIE;Nie zmarnowałeś swojego potencjału. Nadal aktywnie go marnujesz.;TAK;1;roast,potencjał
+32;OBRAŹ MNIE;Twój plan brzmi świetnie, dopóki ktoś nie zacznie zadawać pytań.;TAK;1;roast,decyzje
+33;OBRAŹ MNIE;Nie martw się opinią innych. Twoja własna już wystarczająco Ci szkodzi.;TAK;1;roast
+34;OBRAŹ MNIE;Jesteś swoim największym krytykiem. I pierwszy raz muszę przyznać Ci rację.;TAK;1;roast
+35;OBRAŹ MNIE;Masz niezwykły talent do komplikowania rzeczy, które już działały.;TAK;1;roast,życie
+36;OBRAŹ MNIE;Twój mózg dziś pracuje zdalnie. Nie podał adresu.;TAK;1;roast,absurd
+37;OBRAŹ MNIE;Nie jesteś leniwy. Po prostu bardzo poważnie traktujesz oszczędzanie energii.;TAK;1;roast,lenistwo
+38;OBRAŹ MNIE;Gdy życie daje Ci cytryny, Ty pytasz gdzie jest instrukcja.;TAK;1;roast,życie
+39;OBRAŹ MNIE;Masz plan B? Bo plan A wygląda, jakby też był planem B.;TAK;1;roast,decyzje
+40;OBRAŹ MNIE;Nie każda myśl zasługuje na wypowiedzenie. Ty traktujesz to jak wyzwanie.;TAK;1;roast
+41;OBRAŹ MNIE;Masz charyzmę regulaminu parkingu.;TAK;1;roast,porównanie
+42;OBRAŹ MNIE;Jesteś człowiekiem, przy którym instrukcja obsługi zaczyna mieć sens.;TAK;1;roast
+43;OBRAŹ MNIE;Twoje życie nie jest chaosem. Chaos ma jednak jakąś strukturę.;TAK;1;roast,życie
+44;OBRAŹ MNIE;Nie boisz się porażki. Widać, że jesteście już na „ty”.;TAK;1;roast,porażka
+45;OBRAŹ MNIE;Masz energię człowieka, który otwiera lodówkę sześć razy, licząc na aktualizację zawartości.;TAK;1;roast,absurd
+46;OBRAŹ MNIE;Twoje „zaraz to zrobię” powinno być zarejestrowane jako jednostka czasu.;TAK;1;roast,prokrastynacja
+47;OBRAŹ MNIE;Gdyby wymówki spalały kalorie, wyglądałbyś fenomenalnie.;TAK;1;roast,wymówki
+48;OBRAŹ MNIE;Jesteś jak CAPTCHA. Niby rozumiem, o co chodzi, ale i tak mnie wkurwiasz.;TAK;1;roast,porównanie
+49;OBRAŹ MNIE;Twoja strefa komfortu zaczyna już płacić podatek od nieruchomości.;TAK;1;roast,komfort
+50;OBRAŹ MNIE;Masz talent do wybierania najdłuższej kolejki. Również życiowo.;TAK;1;roast,życie
+51;OBRAŹ MNIE;Twoja produktywność ma świetny work-life balance. Głównie life.;TAK;1;roast,praca
+52;OBRAŹ MNIE;Masz tyle niedokończonych spraw, że Netflix pyta, czy nadal oglądasz.;TAK;1;roast,prokrastynacja
+53;OBRAŹ MNIE;Jesteś jak darmowy okres próbny. Na początku ciekawie, potem człowiek zapomina anulować.;TAK;1;roast,porównanie
+54;OBRAŹ MNIE;Twoje ambicje i wykonanie są obecnie w związku na odległość.;TAK;1;roast,ambicja
+55;OBRAŹ MNIE;Jesteś dokładnie takim człowiekiem, przez którego istnieje przycisk „cofnij”.;TAK;1;roast,absurd
+56;OBRAŹ MNIE;Masz dar. Jeszcze tylko musimy ustalić, gdzie go położyłeś.;TAK;1;roast,potencjał
+57;OBRAŹ MNIE;Spokojnie. Nikt nie oczekiwał od Ciebie aż tyle. Ty też nie.;TAK;1;roast
+58;OBRAŹ MNIE;Twoja konsekwencja imponuje. Zwłaszcza w powtarzaniu tych samych błędów.;TAK;1;roast,błędy
+59;OBRAŹ MNIE;Masz bardzo otwarty umysł. Czasem aż wszystko z niego wypada.;TAK;1;roast,absurd
+60;OBRAŹ MNIE;Nie jesteś problemem. Jesteś całym FAQ.;TAK;1;roast,absurd
+61;OBRAŹ MNIE;Twoje decyzje mają fabułę. Szkoda, że to komedia.;TAK;1;roast,decyzje
+62;OBRAŹ MNIE;Wyglądasz na osobę, która czyta „zaakceptowałem regulamin” i traktuje to jako największe kłamstwo dnia.;TAK;1;roast,absurd
+63;DOBRA RADA;Jeśli musisz pytać trzecią osobę o zdanie, prawdopodobnie szukasz nie rady, tylko zgody.;TAK;1;decyzje
+64;DOBRA RADA;Nie odpisuj od razu. Zjedz coś. Połowa konfliktów to głód w eleganckim płaszczu.;TAK;1;relacje,jedzenie
+65;DOBRA RADA;Zanim kupisz coś drogiego, prześpij się z tym. Z rzeczą nie musisz.;TAK;1;pieniądze
+66;DOBRA RADA;Jeżeli coś zajmuje mniej niż pięć minut, zrób to teraz. Chyba że to tatuaż.;TAK;1;życie,absurd
+67;DOBRA RADA;Nie podejmuj życiowych decyzji po północy. Po północy nawet kebab wydaje się bratnią duszą.;TAK;1;decyzje,noc
+68;DOBRA RADA;Przestań tłumaczyć się ludziom, którzy i tak już napisali sobie własną wersję.;TAK;1;relacje
+69;DOBRA RADA;Jeśli coś brzmi zbyt dobrze, żeby było prawdziwe, przeczytaj mały druk.;TAK;1;pieniądze,życie
+70;DOBRA RADA;Zrób najpierw najgorszą rzecz z listy. Potem dzień może już tylko udawać groźny.;TAK;1;praca
+71;DOBRA RADA;Nie wysyłaj wiadomości, której nie chciałbyś zobaczyć na screenie.;TAK;1;relacje
+72;DOBRA RADA;Czasem najlepszy plan to przestać poprawiać plan i zacząć.;TAK;1;działanie
+73;MOTYWACJA;W Tobie jest bestia. Prawdopodobnie śpi, ale nie przeszkadzajmy narracji.;TAK;1;coach,absurd
+74;MOTYWACJA;Nie masz problemów. Masz lekcje, za które nikt nie da Ci certyfikatu.;TAK;1;coach,absurd
+75;MOTYWACJA;Każdy milioner miał kiedyś zero. Ty też masz. Jesteś na dobrej drodze.;TAK;1;coach,pieniądze
+76;MOTYWACJA;Wizualizuj sukces. To prawie tak skuteczne jak praca, ale znacznie wygodniejsze.;TAK;1;coach,absurd
+77;MOTYWACJA;Nie goń marzeń. Biegnij obok nich i wyglądaj, jakbyście mieli wspólny cel.;TAK;1;coach,absurd
+78;MOTYWACJA;Twoja energia przyciąga to, o czym myślisz. Dlatego przestań myśleć o kebabie.;TAK;1;coach,jedzenie
+79;MOTYWACJA;Sukces zaczyna się tam, gdzie kończy się wymówka. Albo gdzieś niedaleko, nie mamy mapy.;TAK;1;coach
+80;MOTYWACJA;Nie jesteś spóźniony. Jesteś na własnej osi czasu. Bardzo, bardzo własnej.;TAK;1;coach
+81;MOTYWACJA;Wszechświat Ci sprzyja. Nie sprawdzaliśmy tego, ale brzmi profesjonalnie.;TAK;1;coach,absurd
+82;MOTYWACJA;Dzisiaj nie ma porażek. Są tylko bardzo kosztowne informacje zwrotne.;TAK;1;coach,praca
+83;POGŁASZCZ MNIE;Nie musisz dziś niczego udowadniać. Serio. Komisja odwołała posiedzenie.;TAK;1;wsparcie,absurd
+84;POGŁASZCZ MNIE;Jesteś całkiem niezłym człowiekiem. Nawet internet nie znalazł dziś nic przeciwko.;TAK;1;wsparcie
+85;POGŁASZCZ MNIE;To, że czegoś jeszcze nie umiesz, nie oznacza, że jesteś w tym beznadziejny. Na razie jesteś początkujący.;TAK;1;wsparcie
+86;POGŁASZCZ MNIE;Masz więcej ogarnięte, niż Ci się wydaje. Reszta po prostu głośniej krzyczy.;TAK;1;wsparcie,życie
+87;POGŁASZCZ MNIE;Dobrze wyglądasz. Nie widzę Cię, ale dzisiaj ryzykuję reputacją.;TAK;1;wsparcie,absurd
+88;POGŁASZCZ MNIE;Nie każdy dzień musi być produktywny, żeby był dobry.;TAK;1;wsparcie
+89;POGŁASZCZ MNIE;Jeśli dzisiaj zrobiłeś minimum, to nadal zrobiłeś więcej niż zero. Matematyka stoi po Twojej stronie.;TAK;1;wsparcie
+90;POGŁASZCZ MNIE;Masz prawo być dumny z rzeczy, których nikt poza Tobą nie zauważył.;TAK;1;wsparcie
+91;POGŁASZCZ MNIE;Nie jesteś dla wszystkich. Na szczęście wszyscy też nie są dla Ciebie.;TAK;1;wsparcie,relacje
+92;POGŁASZCZ MNIE;Jesteś wystarczająco dobry na dzisiaj. Jutro możesz znowu przesadzać z wymaganiami.;TAK;1;wsparcie
+93;TAK CZY NIE;TAK. I przestań już otwierać kolejne zdrapki, aż dostaniesz odpowiedź, której chcesz.;TAK;1;decyzje,tak
+94;TAK CZY NIE;NIE. Los właśnie oszczędził Ci roboty.;TAK;1;decyzje,nie
+95;TAK CZY NIE;TAK. Ostrożnie, ale tak.;TAK;1;decyzje,tak
+96;TAK CZY NIE;NIE. To nie tchórzostwo. To wyjątkowo chwilowo działający rozsądek.;TAK;1;decyzje,nie
+97;TAK CZY NIE;TAK. Masz pozwolenie od internetu.;TAK;1;decyzje,tak
+98;TAK CZY NIE;NIE. Zadaj pytanie ponownie po jedzeniu.;TAK;1;decyzje,nie
+99;TAK CZY NIE;TAK. Co może pójść nie tak? Dobra, nie odpowiadaj.;TAK;1;decyzje,tak
+100;TAK CZY NIE;NIE. Tym razem nuda wygrywa z konsekwencjami.;TAK;1;decyzje,nie
+101;TAK CZY NIE;TAK. Ale tylko jeśli nie musisz nikomu potem tłumaczyć „to długa historia”.;TAK;1;decyzje,tak
+102;TAK CZY NIE;NIE. Twoje przyszłe ja właśnie wysłało podziękowania.;TAK;1;decyzje,nie
+103;18+;Jeśli oboje wiecie, że to zły pomysł, przynajmniej macie już coś wspólnego.;TAK;1;18+,relacje
+104;18+;Nie pisz do ex po alkoholu. Archeologia też ma swoje granice.;TAK;1;18+,relacje
+105;18+;Flirtuj śmiało. Najwyżej jutro zmienisz lokal.;TAK;1;18+,flirt
+106;18+;Jeśli pytasz, czy wypada, prawdopodobnie właśnie dlatego masz ochotę.;TAK;1;18+,decyzje
+107;18+;Chemia jest ważna. Zgoda jeszcze ważniejsza. Reszta to logistyka.;TAK;1;18+,relacje
+108;18+;Nie wszystko, co dzieje się po drugiej w nocy, musi zostać częścią Twojej osobowości.;TAK;1;18+,impreza
+109;18+;Masz ochotę? Powiedz. Telepatia ma fatalne opinie użytkowników.;TAK;1;18+,flirt
+110;18+;Jeśli plan zaczyna się od „nikomu nie mów”, zastanów się jeszcze raz. Potem ewentualnie baw się dobrze.;TAK;1;18+,decyzje
+111;18+;Dorosły człowiek może robić głupie rzeczy. Ważne, żeby robił je świadomie i za zgodą wszystkich zainteresowanych.;TAK;1;18+,impreza
+112;18+;Nie oceniaj swoich wiadomości z wczoraj przed pierwszą kawą. Potrzebujesz pełnej odporności psychicznej.;TAK;1;18+,impreza
