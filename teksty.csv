@@ -1,0 +1,19 @@
+id;kategoria;tekst;aktywny;waga;tagi
+1;WRÓŻBA;Dzisiaj podejmiesz świetną decyzję. Niestety dopiero po dwóch fatalnych.;TAK;1;decyzje,humor
+2;ZNAK OD LOSU;To jest ten znak, na który czekałeś. Problem w tym, że nie wiemy do czego.;TAK;1;absurd
+3;PRAWDA;Nie potrzebujesz motywacji. Potrzebujesz przestać negocjować sam ze sobą.;TAK;1;motywacja
+4;WRÓŻBA;Ktoś dziś o Tobie pomyśli. Oby nie urząd skarbowy.;TAK;1;humor,praca
+5;ZNAK OD LOSU;Zrób to. Jeśli nie wiesz co — tym bardziej brzmi ciekawie.;TAK;1;decyzje
+6;PRAWDA;Masz więcej czasu, niż Ci się wydaje. I mniej, niż planujesz zmarnować.;TAK;1;czas
+7;WRÓŻBA;Dziś trafisz na coś przypadkiem. Udawaj, że tak miało być.;TAK;1;przypadek
+8;ZNAK OD LOSU;Napisz do tej osoby. Tak, do tej. Nie, nie potrzebujesz lepszego powodu.;TAK;1;relacje
+9;PRAWDA;To, że dobrze brzmi w Twojej głowie, nie znaczy jeszcze, że jest dobrym pomysłem.;TAK;1;decyzje
+10;WRÓŻBA;Mały sukces jest blisko. Wielki też, tylko ma gorszy dojazd.;TAK;1;sukces,humor
+11;ZNAK OD LOSU;Odpuść jedną rzecz, którą robisz tylko dlatego, że „wypada”.;TAK;1;odpuszczanie
+12;PRAWDA;Nie wszystko trzeba ogarniać. Czasem wystarczy nie pogorszyć.;TAK;1;życie
+13;PRAWDA;Ta rzecz, którą odkładasz? Nadal tam jest. Pozdrawia.;TAK;1;prokrastynacja
+14;WRÓŻBA;Wieczorem będziesz mądrzejszy. Pytanie tylko, o jakie błędy.;TAK;1;humor
+15;ZNAK OD LOSU;Kup sobie coś dobrego do jedzenia. Los wyjątkowo ma dziś sens.;TAK;1;jedzenie
+16;PRAWDA;Nie jesteś zmęczony życiem. Jesteś zmęczony tym jednym konkretnym gównem.;TAK;1;życie
+17;WRÓŻBA;Dzisiaj ktoś powie „a nie mówiłem”. Możliwe, że będziesz to Ty.;TAK;1;humor
+18;ZNAK OD LOSU;Jeśli wahasz się między tak i nie, rzuć monetą. Jak się wkurzysz na wynik, już wiesz.;TAK;1;decyzje
