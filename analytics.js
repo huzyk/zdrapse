@@ -9,10 +9,18 @@
   const sessionId=getId(sessionStorage,SESSION_KEY);
   let scratchStarted=false,lastRevealedId=null;
 
+  function hash(value){
+    let h=2166136261;
+    for(let i=0;i<value.length;i++){h^=value.charCodeAt(i);h=Math.imul(h,16777619)}
+    return (h>>>0).toString(36);
+  }
+
   function currentCard(){
+    const text=document.getElementById('fortune')?.textContent||'';
+    const category=document.getElementById('category')?.textContent||null;
     return {
-      scratch_id:document.getElementById('fortune')?.textContent?window.current?.id||null:null,
-      category:document.getElementById('category')?.textContent||null
+      scratch_key:text?hash(`${category}|${text}`):null,
+      category
     };
   }
 
@@ -89,9 +97,8 @@
       new MutationObserver(()=>{
         if(!actions.classList.contains('show'))return;
         const card=currentCard();
-        const key=`${card.category}:${document.getElementById('fortune')?.textContent||''}`;
-        if(key===lastRevealedId)return;
-        lastRevealedId=key;
+        if(card.scratch_key===lastRevealedId)return;
+        lastRevealedId=card.scratch_key;
         track('scratch_reveal',card);
       }).observe(actions,{attributes:true,attributeFilter:['class']});
     }
